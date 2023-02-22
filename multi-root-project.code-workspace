@@ -1,12 +1,15 @@
 {
   "folders": [
     {
+      "name": "root",
       "path": "."
     },
     {
+      "name": "client",
       "path": "packages/client"
     },
     {
+      "name": "server",
       "path": "packages/server"
     }
   ],
