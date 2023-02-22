@@ -11,6 +11,10 @@
     {
       "name": "server",
       "path": "packages/server"
+    },
+    {
+      "name": "utils",
+      "path": "packages/utils"
     }
   ],
   "settings": {
