@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "packages/client"
+    },
+    {
+      "path": "packages/server"
+    }
+  ],
+  "settings": {
+    "prettier.configPath": "./.prettierrc.js"
+  }
+}
